@@ -27,7 +27,7 @@ export default {
       console.log('on save click')
     },
     onImgOk (e) {
-      //两种路径好像是一样的
+      // 两种路径是一样的
       console.log(e.mp.detail.path)
       console.log(e.target.path)
     }
