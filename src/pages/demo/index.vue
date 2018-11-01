@@ -1,6 +1,6 @@
 <template>
     <div>
-        <painter :customStyle="customStyle" @imgOK="onImgOk" :palette="template" />
+        <painter :customStyle="customStyle" @imgOK="onImgOk" :palette="template" :dirty="true"/>
         <button style="margin-top:40rpx" @click="save">保存</button>
     </div>
 </template>

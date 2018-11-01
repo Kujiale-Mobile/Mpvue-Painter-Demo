@@ -7,10 +7,10 @@
 		"minified": true,
 		"newFeature": true
 	},
-	"miniprogramRoot": "./dist/",
+	"miniprogramRoot": "dist/",
 	"compileType": "miniprogram",
-	"appid": "touristappid",
-	"projectname": "my-project",
+	"appid": "wx4fa003a14689ffe2",
+	"projectname": "Mpvue-Painter",
 	"condition": {
 		"search": {
 			"current": -1,
